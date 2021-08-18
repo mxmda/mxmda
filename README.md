@@ -1,1 +1,1 @@
-### Hey! My name is mxmda and i like developing things.
+### Hey! My name is mxmda and i like developing stuff.
