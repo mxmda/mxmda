@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Matias</h1>
 
-<br>
+<hr>
 
 <p><img align="right" src="https://github.com/mxmda/mxmda/blob/main/readme.gif" alt="mxmda" /></p>
 
-<br>
+<hr>
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
-<br>
+<hr>
 
 <h3 align="left">Languages and Tools</h3>
 
